@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-learning",
+  "version": "1.0.0",
+  "description": "Learning React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scervantes111/Reactjs-learning.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Scervantes111/Reactjs-learning/issues"
+  },
+  "homepage": "https://github.com/Scervantes111/Reactjs-learning#readme"
+}
